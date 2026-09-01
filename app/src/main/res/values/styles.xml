@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.CampusEvents" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#09100E</item>
+        <item name="android:navigationBarColor">#09100E</item>
+        <item name="android:colorAccent">#12A7B4</item>
+    </style>
+</resources>
