@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Bat</string>
+  <string name="shortcut_add_event_short">Add event</string>
+  <string name="shortcut_add_event_long">Bat: add an event</string>
+</resources>
